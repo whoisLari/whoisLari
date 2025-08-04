@@ -75,10 +75,10 @@ I believe curiosity, adaptability, and consistency are key to thriving in the ev
 ### 📌 Featured repositories
 
   <a href="https://github.com/whoisLari/nwl-connect-react">
-    <img align="left" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=whoisLari&repo=nwl-connect-react&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=312e81&hide_border=true&locale=en" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=whoisLari&repo=nwl-connect-react&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=312e81&hide_border=true&locale=en" />
   </a>
 
   <a href="https://github.com/whoisLari/nlw-rocketseat">
-    <img align="left" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=whoisLari&repo=nlw-rocketseat&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=312e81&hide_border=true&locale=en" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=whoisLari&repo=nlw-rocketseat&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=312e81&hide_border=true&locale=en" />
   </a>
 
