@@ -105,7 +105,7 @@ I believe curiosity, adaptability, and consistency are key to thriving in the ev
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-<h2 align="left">📌 Repositórios em destaque</h2>
+<h2 align="left">📌 Featured repositories</h2>
 
 <div align="center">
 
