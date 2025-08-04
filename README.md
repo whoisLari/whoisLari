@@ -1,12 +1,12 @@
 ## 👋 Hi, my name is Larissa Navarro  
 ### 💻 Front-End Developer
-<img src="https://media.giphy.com/media/OumCa12QC9CIvBe2c1/giphy.gif" width="100" align="left" style="margin-right:20px;"/>
+<img src="https://media.giphy.com/media/OumCa12QC9CIvBe2c1/giphy.gif" width="100" align="center"/>
 
-<p>
+
 I’m a Front-End Developer with a strong passion for design.<br>
 Creativity, focus, and persistence are the foundations of how I bring my ideas to life with clarity and purpose.<br>
 I believe curiosity, adaptability, and consistency are key to thriving in the ever-evolving world of web development.
-</p>
+
 
 ✨ **Check out my projects and see what I’ve been building with passion!**
 
